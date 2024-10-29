@@ -1,0 +1,85 @@
+2024-05-14 18:19:13 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 11784 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-14 18:19:13 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-14 18:19:13 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-14 18:19:13 INFO  Finished Spring Data repository scanning in 44 ms. Found 1 Aerospike repository interfaces.
+2024-05-14 18:19:14 INFO  Tomcat initialized with port(s): 9091 (http)
+2024-05-14 18:19:14 INFO  Initializing ProtocolHandler ["http-nio-9091"]
+2024-05-14 18:19:14 INFO  Starting service [Tomcat]
+2024-05-14 18:19:14 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-14 18:19:14 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-14 18:19:14 INFO  Root WebApplicationContext: initialization completed in 1346 ms
+2024-05-14 18:19:28 INFO  Starting ProtocolHandler ["http-nio-9091"]
+2024-05-14 18:19:28 INFO  Tomcat started on port(s): 9091 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-14 18:19:28 INFO  Started TopUpDemoAppApplication in 15.907 seconds (JVM running for 16.894)
+2024-05-14 18:19:54 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 10444 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-14 18:19:54 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-14 18:19:55 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-14 18:19:55 INFO  Finished Spring Data repository scanning in 46 ms. Found 1 Aerospike repository interfaces.
+2024-05-14 18:19:55 INFO  Tomcat initialized with port(s): 9091 (http)
+2024-05-14 18:19:55 INFO  Initializing ProtocolHandler ["http-nio-9091"]
+2024-05-14 18:19:55 INFO  Starting service [Tomcat]
+2024-05-14 18:19:55 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-14 18:19:56 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-14 18:19:56 INFO  Root WebApplicationContext: initialization completed in 1301 ms
+2024-05-14 18:20:10 INFO  Starting ProtocolHandler ["http-nio-9091"]
+2024-05-14 18:20:10 INFO  Tomcat started on port(s): 9091 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-14 18:20:10 INFO  Started TopUpDemoAppApplication in 16.615 seconds (JVM running for 17.644)
+2024-05-14 18:23:12 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 23680 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-14 18:23:12 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-14 18:23:12 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-14 18:23:12 INFO  Finished Spring Data repository scanning in 43 ms. Found 1 Aerospike repository interfaces.
+2024-05-14 18:23:13 INFO  Tomcat initialized with port(s): 8080 (http)
+2024-05-14 18:23:13 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-14 18:23:13 INFO  Starting service [Tomcat]
+2024-05-14 18:23:13 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-14 18:23:13 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-14 18:23:13 INFO  Root WebApplicationContext: initialization completed in 1252 ms
+2024-05-14 18:23:27 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2024-05-14 18:23:27 INFO  Tomcat started on port(s): 8080 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-14 18:23:27 INFO  Started TopUpDemoAppApplication in 15.632 seconds (JVM running for 16.633)
+2024-05-14 18:24:57 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 6520 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-14 18:24:57 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-14 18:24:57 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-14 18:24:57 INFO  Finished Spring Data repository scanning in 38 ms. Found 1 Aerospike repository interfaces.
+2024-05-14 18:24:58 INFO  Tomcat initialized with port(s): 8080 (http)
+2024-05-14 18:24:58 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-14 18:24:58 INFO  Starting service [Tomcat]
+2024-05-14 18:24:58 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-14 18:24:58 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-14 18:24:58 INFO  Root WebApplicationContext: initialization completed in 1455 ms
+2024-05-14 18:25:13 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2024-05-14 18:25:13 INFO  Tomcat started on port(s): 8080 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-14 18:25:13 INFO  Started TopUpDemoAppApplication in 16.542 seconds (JVM running for 17.474)
+2024-05-14 18:35:20 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 30040 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-14 18:35:20 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-14 18:35:20 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-14 18:35:21 INFO  Finished Spring Data repository scanning in 55 ms. Found 1 Aerospike repository interfaces.
+2024-05-14 18:35:21 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-05-14 18:35:21 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-05-14 18:35:21 INFO  Starting service [Tomcat]
+2024-05-14 18:35:21 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-14 18:35:21 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-14 18:35:21 INFO  Root WebApplicationContext: initialization completed in 1285 ms
+2024-05-14 18:35:36 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-05-14 18:35:36 WARN  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9090 is already in use
+2024-05-14 18:35:36 INFO  Pausing ProtocolHandler ["http-nio-9090"]
+2024-05-14 18:35:36 INFO  Stopping service [Tomcat]
+2024-05-14 18:35:36 INFO  Stopping ProtocolHandler ["http-nio-9090"]
+2024-05-14 18:35:36 INFO  Destroying ProtocolHandler ["http-nio-9090"]
+2024-05-14 18:35:36 INFO  
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-05-14 18:35:36 ERROR 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9090 or configure this application to listen on another port.
+

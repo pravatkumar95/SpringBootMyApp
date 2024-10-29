@@ -1,0 +1,2 @@
+2024-06-27 15:02:50 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Read timed out
+2024-06-27 15:02:55 INFO  Remove node A1 3.83.162.143 3000

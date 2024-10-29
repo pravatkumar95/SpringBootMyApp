@@ -1,0 +1,64 @@
+package com.centroxy.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.messaging.handler.annotation.MessageMapping;
+import org.springframework.messaging.handler.annotation.SendTo;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.centroxy.model.Employee;
+import com.centroxy.repo.EmployeeRepo;
+
+@Controller
+public class EmployeeController {
+	
+	@Autowired
+	private EmployeeRepo empRepo;
+	
+	
+	
+	@GetMapping("/employee")
+	public String getEmployee(Model model){
+		Employee employee=new Employee();
+		model.addAttribute("employee",employee);
+		return "employeeHR";
+		
+	}
+	
+	
+	@MessageMapping("/empWebsock")
+	@SendTo("/topic/hr")
+	public Employee sendEmployeeMessage(Employee employee) {
+		
+		employee.setStatus("pending");
+		
+		empRepo.save(employee);
+		
+		System.out.println("hi");
+		//empRepo.save(employee);
+		return employee;
+		
+	}
+	
+	 
+//	@MessageMapping("/empWebsock")
+//	@SendTo("/topic/hr")
+//	public String EmployeeWebsock(String message) {
+//		
+//		System.out.println("hi");
+//		//empRepo.save(employee);
+//		return message;
+//		
+//	}
+	
+	@GetMapping("/hr")
+	public String getHr() {
+		
+		return "hr";
+	}
+	
+	
+	
+
+}

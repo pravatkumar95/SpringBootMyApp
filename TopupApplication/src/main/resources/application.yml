@@ -1,0 +1,10 @@
+spring:
+  application:
+   name: TopupApplication
+
+in:
+ url:
+
+path:
+  balanceDate: /resources/path/getBalanceAndData.xml
+  refill: /resources/path/refill.xml

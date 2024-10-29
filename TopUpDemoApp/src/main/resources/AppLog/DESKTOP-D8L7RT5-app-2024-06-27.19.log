@@ -1,0 +1,205 @@
+2024-06-27 19:00:35 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 13708 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 19:00:35 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:00:35 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 19:00:35 INFO  Finished Spring Data repository scanning in 25 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 19:00:36 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 19:00:36 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:00:36 INFO  Starting service [Tomcat]
+2024-06-27 19:00:36 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 19:00:36 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 19:00:36 INFO  Root WebApplicationContext: initialization completed in 694 ms
+2024-06-27 19:00:49 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:00:49 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 19:00:49 INFO  Started TopUpDemoAppApplication in 14.269 seconds (JVM running for 14.85)
+2024-06-27 19:01:28 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 19:01:28 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 19:01:28 INFO  Completed initialization in 1 ms
+2024-06-27 19:02:04 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 11944 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 19:02:04 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:02:04 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 19:02:04 INFO  Finished Spring Data repository scanning in 31 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 19:02:05 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 19:02:05 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:02:05 INFO  Starting service [Tomcat]
+2024-06-27 19:02:05 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 19:02:05 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 19:02:05 INFO  Root WebApplicationContext: initialization completed in 763 ms
+2024-06-27 19:02:17 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:02:17 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 19:02:17 INFO  Started TopUpDemoAppApplication in 13.561 seconds (JVM running for 14.198)
+2024-06-27 19:02:20 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 19:02:20 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 19:02:20 INFO  Completed initialization in 1 ms
+2024-06-27 19:04:25 INFO  Remove node A1 3.83.162.143 3000
+2024-06-27 19:04:40 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 24744 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 19:04:40 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:04:40 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 19:04:40 INFO  Finished Spring Data repository scanning in 23 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 19:04:41 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 19:04:41 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:04:41 INFO  Starting service [Tomcat]
+2024-06-27 19:04:41 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 19:04:41 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 19:04:41 INFO  Root WebApplicationContext: initialization completed in 726 ms
+2024-06-27 19:04:53 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:04:53 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 19:04:53 INFO  Started TopUpDemoAppApplication in 13.562 seconds (JVM running for 14.167)
+2024-06-27 19:05:43 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 20888 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 19:05:43 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:05:43 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 19:05:43 INFO  Finished Spring Data repository scanning in 22 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 19:05:44 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 19:05:44 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:05:44 INFO  Starting service [Tomcat]
+2024-06-27 19:05:44 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 19:05:44 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 19:05:44 INFO  Root WebApplicationContext: initialization completed in 717 ms
+2024-06-27 19:05:57 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:05:57 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 19:05:57 INFO  Started TopUpDemoAppApplication in 14.493 seconds (JVM running for 15.114)
+2024-06-27 19:05:59 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 19:05:59 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 19:05:59 INFO  Completed initialization in 2 ms
+2024-06-27 19:05:59 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T19:05:59.663299800
+2024-06-27 19:05:59 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 19:05:59 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 19:06:19 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 19:06:35 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T19:06:35.832163700
+2024-06-27 19:06:35 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 19:06:35 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 19:07:06 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 19:07:54 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 21456 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 19:07:54 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:07:55 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 19:07:55 INFO  Finished Spring Data repository scanning in 19 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 19:07:55 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 19:07:55 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:07:55 INFO  Starting service [Tomcat]
+2024-06-27 19:07:55 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 19:07:55 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 19:07:55 INFO  Root WebApplicationContext: initialization completed in 632 ms
+2024-06-27 19:08:08 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:08:08 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 19:08:08 INFO  Started TopUpDemoAppApplication in 14.169 seconds (JVM running for 14.675)
+2024-06-27 19:08:09 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 19:08:09 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 19:08:09 INFO  Completed initialization in 2 ms
+2024-06-27 19:08:09 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T19:08:09.475218700
+2024-06-27 19:08:09 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 19:08:09 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 19:08:10 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 19:08:10 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T19:08:10.706975200
+2024-06-27 19:08:10 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 19:08:10 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 19:08:11 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 19:08:53 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 28308 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 19:08:53 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:08:54 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 19:08:54 INFO  Finished Spring Data repository scanning in 27 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 19:08:54 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 19:08:54 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:08:54 INFO  Starting service [Tomcat]
+2024-06-27 19:08:54 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 19:08:54 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 19:08:54 INFO  Root WebApplicationContext: initialization completed in 794 ms
+2024-06-27 19:09:07 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:09:07 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 19:09:07 INFO  Started TopUpDemoAppApplication in 13.599 seconds (JVM running for 14.238)
+2024-06-27 19:09:48 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 19:09:48 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 19:09:48 INFO  Completed initialization in 1 ms
+2024-06-27 19:09:48 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T19:09:48.110137200
+2024-06-27 19:09:48 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 19:09:48 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 19:11:15 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 19:11:15 INFO  Remove node A1 3.83.162.143 3000
+2024-06-27 19:11:19 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 9520 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 19:11:19 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:11:19 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 19:11:19 INFO  Finished Spring Data repository scanning in 29 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 19:11:20 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 19:11:20 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:11:20 INFO  Starting service [Tomcat]
+2024-06-27 19:11:20 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 19:11:20 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 19:11:20 INFO  Root WebApplicationContext: initialization completed in 836 ms
+2024-06-27 19:11:32 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:11:32 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 19:11:32 INFO  Started TopUpDemoAppApplication in 13.611 seconds (JVM running for 14.211)
+2024-06-27 19:11:47 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 19:11:47 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 19:11:47 INFO  Completed initialization in 1 ms
+2024-06-27 19:11:47 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T19:11:47.379113600
+2024-06-27 19:11:47 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 19:11:47 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 19:11:58 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 19:11:58 INFO  Remove node A1 3.83.162.143 3000
+2024-06-27 19:12:02 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 19320 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 19:12:02 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:12:02 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 19:12:02 INFO  Finished Spring Data repository scanning in 23 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 19:12:02 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 19:12:02 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:12:02 INFO  Starting service [Tomcat]
+2024-06-27 19:12:02 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 19:12:02 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 19:12:02 INFO  Root WebApplicationContext: initialization completed in 729 ms
+2024-06-27 19:12:15 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:12:15 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 19:12:15 INFO  Started TopUpDemoAppApplication in 13.509 seconds (JVM running for 14.118)
+2024-06-27 19:12:29 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 19:12:29 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 19:12:29 INFO  Completed initialization in 0 ms
+2024-06-27 19:12:29 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T19:12:29.515411800
+2024-06-27 19:12:29 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 19:12:29 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 19:12:35 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 19:14:33 INFO  Remove node A1 3.83.162.143 3000
+2024-06-27 19:22:10 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 32544 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 19:22:10 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:22:11 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 19:22:11 INFO  Finished Spring Data repository scanning in 27 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 19:22:11 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 19:22:11 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:22:11 INFO  Starting service [Tomcat]
+2024-06-27 19:22:11 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 19:22:11 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 19:22:11 INFO  Root WebApplicationContext: initialization completed in 776 ms
+2024-06-27 19:22:24 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:22:24 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 19:22:24 INFO  Started TopUpDemoAppApplication in 13.583 seconds (JVM running for 14.236)
+2024-06-27 19:22:24 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 19:22:24 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 19:22:24 INFO  Completed initialization in 0 ms
+2024-06-27 19:22:24 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T19:22:24.642818400
+2024-06-27 19:22:24 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 19:22:24 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 19:22:25 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 19:23:06 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T19:23:06.396863500
+2024-06-27 19:23:06 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 19:23:06 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 19:24:55 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 19:24:55 INFO  Remove node A1 3.83.162.143 3000
+2024-06-27 19:25:08 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 25656 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 19:25:08 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 19:25:08 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 19:25:08 INFO  Finished Spring Data repository scanning in 29 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 19:25:08 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 19:25:08 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:25:08 INFO  Starting service [Tomcat]
+2024-06-27 19:25:08 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 19:25:08 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 19:25:08 INFO  Root WebApplicationContext: initialization completed in 714 ms
+2024-06-27 19:25:21 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 19:25:21 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 19:25:21 INFO  Started TopUpDemoAppApplication in 13.515 seconds (JVM running for 14.13)
+2024-06-27 19:25:23 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 19:25:23 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 19:25:23 INFO  Completed initialization in 0 ms
+2024-06-27 19:25:23 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T19:25:23.980245
+2024-06-27 19:25:23 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 19:25:23 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 19:26:09 INFO  TopupServiceImpl:storeDataFromExcelToDatabase:end...
+2024-06-27 19:26:09 INFO  TopupController:persistProductCTS:end...
+2024-06-27 19:26:09 INFO  TopupController: persistProductCTS: takes: 45.255342399 milli seconds
+2024-06-27 19:34:06 INFO  Remove node A1 3.83.162.143 3000

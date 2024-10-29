@@ -1,0 +1,230 @@
+2024-06-28 10:31:14 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 15000 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-28 10:31:14 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-28 10:31:14 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-28 10:31:14 INFO  Finished Spring Data repository scanning in 53 ms. Found 3 Aerospike repository interfaces.
+2024-06-28 10:31:15 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-28 10:31:15 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-28 10:31:15 INFO  Starting service [Tomcat]
+2024-06-28 10:31:15 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-28 10:31:15 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-28 10:31:15 INFO  Root WebApplicationContext: initialization completed in 1581 ms
+2024-06-28 10:31:29 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-28 10:31:29 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-28 10:31:29 INFO  Started TopUpDemoAppApplication in 15.746 seconds (JVM running for 16.846)
+2024-06-28 10:31:32 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-28 10:31:32 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-28 10:31:32 INFO  Completed initialization in 2 ms
+2024-06-28 10:31:32 INFO  TopupController: persistProductCTS: initiated at: 2024-06-28T10:31:32.164269600
+2024-06-28 10:31:32 INFO  TopupController:persistProductCTS:Init...
+2024-06-28 10:31:32 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-28 10:32:03 INFO  TopupServiceImpl:storeDataFromExcelToDatabase:end...
+2024-06-28 10:32:03 INFO  TopupController:persistProductCTS:end...
+2024-06-28 10:32:03 INFO  TopupController: persistProductCTS: takes: 31.6720551 milli seconds
+2024-06-28 10:33:33 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Connection reset by peer
+2024-06-28 10:33:34 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:33:35 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:33:36 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:33:37 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:33:37 INFO  Remove node A1 3.83.162.143 3000
+2024-06-28 10:33:38 WARN  Seed 3.83.162.143 3000 failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:33:39 WARN  Seed 3.83.162.143 3000 failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:33:40 WARN  Seed 3.83.162.143 3000 failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:33:48 INFO  Invalid address 172.31.85.52:3000. access-address is probably not configured on server.
+2024-06-28 10:33:48 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Connection reset by peer
+2024-06-28 10:33:48 INFO  Add node A1 3.83.162.143 3000
+2024-06-28 10:35:56 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Connection reset
+2024-06-28 10:41:08 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Connection reset
+2024-06-28 10:41:09 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:41:10 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:41:11 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:41:12 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Network is unreachable: no further information
+2024-06-28 10:41:12 INFO  Remove node A1 3.83.162.143 3000
+2024-06-28 10:41:27 INFO  Invalid address 172.31.85.52:3000. access-address is probably not configured on server.
+2024-06-28 10:41:30 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Connection reset
+2024-06-28 10:41:30 INFO  Add node A1 3.83.162.143 3000
+2024-06-28 10:47:51 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketException: Connection reset
+2024-06-28 10:48:07 WARN  Node A1 3.83.162.143 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Read timed out
+2024-06-28 10:51:00 INFO  TopupController: persistProductCTS: initiated at: 2024-06-28T10:51:00.454094600
+2024-06-28 10:51:00 INFO  TopupController:persistProductCTS:Init...
+2024-06-28 10:51:00 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-28 10:51:34 INFO  TopupServiceImpl:storeDataFromExcelToDatabase:end...
+2024-06-28 10:51:34 INFO  TopupController:persistProductCTS:end...
+2024-06-28 10:51:34 INFO  TopupController: persistProductCTS: takes: 34.4822815 milli seconds
+2024-06-28 10:51:42 INFO  TopupController: fetchTopupList: initiated at: 2024-06-28T10:51:42.172294100
+2024-06-28 10:51:42 INFO  TopupController:fetchTopupList:Init...
+2024-06-28 10:51:42 INFO  TopupServiceImpl: fetch All Data from Aerospike Database
+2024-06-28 10:51:43 INFO  TopupServiceImpl:fetch All Data From Aerospike Database:end...
+2024-06-28 10:51:43 INFO  TopupController:fetchTopupList:end...
+2024-06-28 10:51:43 INFO  TopupController: fetchTopupList: takes: 1.2248957 milli seconds
+2024-06-28 10:52:33 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 29040 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-28 10:52:33 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-28 10:52:33 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-28 10:52:34 INFO  Finished Spring Data repository scanning in 53 ms. Found 3 Aerospike repository interfaces.
+2024-06-28 10:52:34 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-28 10:52:34 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-28 10:52:34 INFO  Starting service [Tomcat]
+2024-06-28 10:52:34 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-28 10:52:34 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-28 10:52:34 INFO  Root WebApplicationContext: initialization completed in 1339 ms
+2024-06-28 10:52:48 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-28 10:52:48 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-28 10:52:48 INFO  Started TopUpDemoAppApplication in 15.364 seconds (JVM running for 16.261)
+2024-06-28 10:52:55 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-28 10:52:55 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-28 10:52:55 INFO  Completed initialization in 1 ms
+2024-06-28 10:52:55 ERROR Servlet.service() for servlet [dispatcherServlet] in context with path [/prepaid-service-manager/api/v1] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Query without a filter will initiate a scan. Since scans are potentially dangerous operations, they are disabled by default in spring-data-aerospike. If you still need to use them, enable them via `scansEnabled` property in `org.springframework.data.aerospike.config.AerospikeDataSettings`.] with root cause
+java.lang.IllegalStateException: Query without a filter will initiate a scan. Since scans are potentially dangerous operations, they are disabled by default in spring-data-aerospike. If you still need to use them, enable them via `scansEnabled` property in `org.springframework.data.aerospike.config.AerospikeDataSettings`.
+	at org.springframework.data.aerospike.query.QueryEngine.select(QueryEngine.java:110) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.core.AerospikeTemplate.findAllRecordsUsingQuery(AerospikeTemplate.java:670) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.core.AerospikeTemplate.findAllUsingQuery(AerospikeTemplate.java:663) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.core.AerospikeTemplate.findAllUsingQuery(AerospikeTemplate.java:647) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.core.AerospikeTemplate.find(AerospikeTemplate.java:445) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.repository.query.AerospikePartTreeQuery.findByQuery(AerospikePartTreeQuery.java:70) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.repository.query.AerospikePartTreeQuery.execute(AerospikePartTreeQuery.java:61) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:137) ~[spring-data-commons-2.7.13.jar:2.7.13]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:121) ~[spring-data-commons-2.7.13.jar:2.7.13]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:160) ~[spring-data-commons-2.7.13.jar:2.7.13]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:139) ~[spring-data-commons-2.7.13.jar:2.7.13]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.28.jar:5.3.28]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-5.3.28.jar:5.3.28]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.28.jar:5.3.28]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:241) ~[spring-aop-5.3.28.jar:5.3.28]
+	at jdk.proxy2.$Proxy92.findAllByServiceId(Unknown Source) ~[?:?]
+	at com.topup.serviceImpl.TopupServiceImplement.getAvailableTopUp(TopupServiceImplement.java:53) ~[classes/:?]
+	at com.topup.controller.TopupController.getTopUpDetails(TopupController.java:53) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:529) ~[tomcat-embed-core-9.0.76.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.76.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at java.lang.Thread.run(Thread.java:842) ~[?:?]
+2024-06-28 10:53:33 ERROR Servlet.service() for servlet [dispatcherServlet] in context with path [/prepaid-service-manager/api/v1] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Query without a filter will initiate a scan. Since scans are potentially dangerous operations, they are disabled by default in spring-data-aerospike. If you still need to use them, enable them via `scansEnabled` property in `org.springframework.data.aerospike.config.AerospikeDataSettings`.] with root cause
+java.lang.IllegalStateException: Query without a filter will initiate a scan. Since scans are potentially dangerous operations, they are disabled by default in spring-data-aerospike. If you still need to use them, enable them via `scansEnabled` property in `org.springframework.data.aerospike.config.AerospikeDataSettings`.
+	at org.springframework.data.aerospike.query.QueryEngine.select(QueryEngine.java:110) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.core.AerospikeTemplate.findAllRecordsUsingQuery(AerospikeTemplate.java:670) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.core.AerospikeTemplate.findAllUsingQuery(AerospikeTemplate.java:663) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.core.AerospikeTemplate.findAllUsingQuery(AerospikeTemplate.java:647) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.core.AerospikeTemplate.find(AerospikeTemplate.java:445) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.repository.query.AerospikePartTreeQuery.findByQuery(AerospikePartTreeQuery.java:70) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.aerospike.repository.query.AerospikePartTreeQuery.execute(AerospikePartTreeQuery.java:61) ~[spring-data-aerospike-3.0.0.jar:?]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:137) ~[spring-data-commons-2.7.13.jar:2.7.13]
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:121) ~[spring-data-commons-2.7.13.jar:2.7.13]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:160) ~[spring-data-commons-2.7.13.jar:2.7.13]
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:139) ~[spring-data-commons-2.7.13.jar:2.7.13]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.28.jar:5.3.28]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-5.3.28.jar:5.3.28]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.28.jar:5.3.28]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:241) ~[spring-aop-5.3.28.jar:5.3.28]
+	at jdk.proxy2.$Proxy92.findAllByServiceId(Unknown Source) ~[?:?]
+	at com.topup.serviceImpl.TopupServiceImplement.getAvailableTopUp(TopupServiceImplement.java:53) ~[classes/:?]
+	at com.topup.controller.TopupController.getTopUpDetails(TopupController.java:53) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:529) ~[tomcat-embed-core-9.0.76.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.28.jar:5.3.28]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.76.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.28.jar:5.3.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.76.jar:9.0.76]
+	at java.lang.Thread.run(Thread.java:842) ~[?:?]
+2024-06-28 10:53:53 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 21072 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-28 10:53:53 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-28 10:53:53 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-28 10:53:54 INFO  Finished Spring Data repository scanning in 45 ms. Found 3 Aerospike repository interfaces.
+2024-06-28 10:53:54 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-28 10:53:54 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-28 10:53:54 INFO  Starting service [Tomcat]
+2024-06-28 10:53:54 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-28 10:53:54 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-28 10:53:54 INFO  Root WebApplicationContext: initialization completed in 1345 ms
+2024-06-28 10:54:08 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-28 10:54:08 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-28 10:54:08 INFO  Started TopUpDemoAppApplication in 15.095 seconds (JVM running for 16.032)
+2024-06-28 10:54:14 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-28 10:54:14 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-28 10:54:14 INFO  Completed initialization in 1 ms

@@ -1,0 +1,82 @@
+[
+  {
+
+
+    "displayName": "£2",
+    "value": "2",
+    "credit": 2,
+    "validity": 0,
+    "description": "Please note, topping up a data only card with this amount gives credit only. Top up data cards with £5/£10 or £20 only to receive data allowances."
+  },
+  {
+    "displayName": "£2.50 Mini Mega",
+    "value": "2.5",
+    "credit": 2.5,
+    "validity": 0,
+    "description": "Please note, topping up a data only card with this amount gives credit only. Top up data cards with £5/£10 or £20 only to receive data allowances."
+  },
+  {
+    "displayName": "£5",
+    "value": "5",
+    "credit": 5,
+    "validity": 0,
+    "description": ""
+  },
+  {
+    "displayName": "£9.5 - Island Plan - no credit",
+    "value": "9.5",
+    "credit": 0,
+    "validity": "15",
+    "description": "Island plan - No credit. Freebies are 10 GB CI data, Unlimited calls and texts to CI and UK for 15 days. If you are unsure if you are on the Island Plan, please call 121 to check before topping up. You will only receive freebies if you are on this plan - no credit"
+  },
+  {
+    "displayName": "£9.75 - 3 days Holiday Bolt ON - no Credit",
+    "value": "9.75",
+    "credit": 0,
+    "validity": 0,
+    "description": "£9.75 gives these freebies applicable in 40 countries: 0.5 GB roaming data, 25 SMS, 25 calls (in country eg UK-UK or home UK-CI) 3 days validity, no credit. Valid on voice sims only. List of countries: Aland Islands, Albania, Austria, Belarus, Belgium, Bosnia & Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Isle of Man, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Netherlands, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Turkey, Switzerland, Ukraine, United Kingdom and USA. Ensure your handset settings are correctly enabled to receive roaming services before you travel. Visit the 'Roam with Confidence' page in the Support section of our website. If this top-up summary is correct, click 'Pay now'. Click 'Back' to edit your top-up details. We accept all major credit and debit cards capable of 3D secure authentication."
+  },
+  {
+    "displayName": "£9.99 FWP Plan - no credit",
+    "value": "9.99",
+    "credit": 0,
+    "validity": 0,
+    "description": "Only top up by this amount if you are on the FWP Plan launched in October 2020. If you are unsure please call 121 before topping up. You will only receive freebies if you are on this plan – no credit."
+  },
+  { "displayName": "£10", "value": "10", "credit": 10, "description": "" },
+  {
+    "displayName": "£14.99 Island Plan – no credit",
+    "value": "14.99",
+    "credit": 0,
+    "validity": 0,
+    "description": "If you are unsure if you are on the Island Plan please call 121 to check before topping up. You will only receive freebies if you are on this plan – no credit."
+  },
+  {
+    "displayName": "£15",
+    "validity": 0,
+    "credit": 15,
+    "value": "15",
+    "description": "Data sim users** Top up with combinations of £5/£10/£20 ONLY to receive maximum data allowances and benefits."
+  },
+  {
+    "displayName": "£19.99 - 7 days Holiday Bolt ON - no Credit",
+    "value": "19.99",
+    "credit": 0,
+    "validity": 7,
+    "description": "£19.99 gives these freebies applicable in 40 countries: 1 GB roaming data, 50 SMS, 50 calls (in country eg UK-UK or home UK-CI), 7 days validity, no credit. Valid on voice sims only. List of applicable countries: Aland Islands, Albania, Austria, Belarus, Belgium, Bosnia & Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Isle of Man, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Netherlands, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Turkey, Switzerland, Ukraine, United Kingdom and USA. Ensure your handset settings are correctly enabled to receive roaming services before you travel. Visit the 'Roam with Confidence' page in the Support section of our website. If this top-up summary is correct, click 'Pay now'. Click 'Back' to edit your top-up details. We accept all major credit and debit cards capable of 3D secure authentication."
+  },
+  {
+    "displayName": "£20",
+    "value": "20",
+    "credit": 20,
+    "validity": 0,
+    "description": ""
+  },
+  {
+    "displayName": "£50",
+    "value": "50",
+    "credit": 50,
+    "validity": 0,
+    "description": "**Data sim users** Top up with combinations of £5/£10/£20 ONLY to receive maximum data allowances and benefits."
+  }
+]

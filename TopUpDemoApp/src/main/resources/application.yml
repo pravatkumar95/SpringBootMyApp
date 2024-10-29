@@ -1,0 +1,35 @@
+spring:
+ application:
+    version: '@project.version@'
+    name: TopUpDemoApp
+
+server:
+  port: 9090
+  servlet:
+    context-path: /prepaid-service-manager/api/v1
+
+
+
+config:
+ aerospike:
+  host: 3.83.162.143
+  port: 3000
+  namespace: test
+
+
+
+topUp:
+ file:
+  path: src/main/resources/static/TopUpDetails 1.xlsx
+  #path: src/main/resources/static/InResponse.xml
+
+#
+#topUp:
+#  file:
+#    path: src/main/resources/static/transaction.json
+#
+#
+#
+
+
+

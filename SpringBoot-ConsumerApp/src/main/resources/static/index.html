@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--<script src="/js/app.js"></script>-->
+    <script
+		src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.1.4/sockjs.min.js"></script>
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script> 
+		
+</head>
+<body>
+	
+	<p>Create Coonection</p>
+	<button id ="myBtn">connect</button>
+	// Get the button element by its ID
+	
+	
+    
+   <script>
+	   
+	   const btn=document.getElementById("myBtn");
+	   
+	   btn.addEventListener("click",connect,true);
+	   
+	   function connect(event) {
+
+    var socket = new SockJS('/myApp');
+    stompClient = Stomp.over(socket);
+    if (socket.readyState === WebSocket.OPEN) {
+    // WebSocket connection is open, so send the message
+    socket.send(message);
+} else {
+    console.log('WebSocket connection is not open.');
+}
+
+
+    // Event listener for errors that occur during the WebSocket connection
+    stompClient.connect({}, onConnected, onError);
+    
+    event.preventDefault();
+}
+
+function onConnected() {
+    // Subscribe to the Public Topic
+    stompClient.subscribe('/topic', onMessageReceived);
+
+    // Tell your username to the server
+    //stompClient.send("/app/chat.register", {}, JSON.stringify({sender: username, type: 'JOIN'}));
+    
+    // WebSocket connection is successfully established, so add event listeners
+    //stompClient.webSocket.onerror = onError;
+    //stompClient.webSocket.onclose = onClose;
+}
+function onError(error) {
+    connectingElement.textContent = 'Could not connect to WebSocket server. Please refresh this page to try again!';
+    connectingElement.style.color = 'red';
+}
+
+function onMessageReceived(payload) {
+    var message = JSON.parse(payload.body);
+    
+}
+	   
+	   
+   </script>
+</body>
+</html>

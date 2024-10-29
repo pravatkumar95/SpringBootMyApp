@@ -1,0 +1,256 @@
+2024-05-13 19:00:51 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 5372 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-13 19:00:51 INFO  The following 1 profile is active: "sit"
+2024-05-13 19:00:51 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-13 19:00:51 INFO  Finished Spring Data repository scanning in 15 ms. Found 1 Aerospike repository interfaces.
+2024-05-13 19:00:51 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-05-13 19:00:51 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-05-13 19:00:51 INFO  Starting service [Tomcat]
+2024-05-13 19:00:51 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-13 19:00:51 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-13 19:00:51 INFO  Root WebApplicationContext: initialization completed in 566 ms
+2024-05-13 19:01:04 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-05-13 19:01:04 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-13 19:01:04 INFO  Started TopUpDemoAppApplication in 13.849 seconds (JVM running for 14.338)
+2024-05-13 19:03:59 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 25740 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-13 19:03:59 INFO  The following 1 profile is active: "sit"
+2024-05-13 19:03:59 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-13 19:03:59 INFO  Finished Spring Data repository scanning in 15 ms. Found 1 Aerospike repository interfaces.
+2024-05-13 19:03:59 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-05-13 19:03:59 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-05-13 19:03:59 INFO  Starting service [Tomcat]
+2024-05-13 19:03:59 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-13 19:04:00 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-13 19:04:00 INFO  Root WebApplicationContext: initialization completed in 562 ms
+2024-05-13 19:04:14 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-05-13 19:04:14 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-13 19:04:14 INFO  Started TopUpDemoAppApplication in 15.048 seconds (JVM running for 15.519)
+2024-05-13 19:05:53 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 17092 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-13 19:05:53 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-13 19:05:53 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-13 19:05:53 INFO  Finished Spring Data repository scanning in 14 ms. Found 1 Aerospike repository interfaces.
+2024-05-13 19:05:53 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-05-13 19:05:53 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-05-13 19:05:53 INFO  Starting service [Tomcat]
+2024-05-13 19:05:53 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-13 19:05:53 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-13 19:05:53 INFO  Root WebApplicationContext: initialization completed in 562 ms
+2024-05-13 19:05:53 WARN  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'topupController' defined in file [D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes\com\topup\controller\TopupController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'topupServiceImpl' defined in file [D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes\com\topup\serviceImpl\TopupServiceImpl.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'topUp.file.path' in value "${topUp.file.path}"
+2024-05-13 19:05:53 INFO  Stopping service [Tomcat]
+2024-05-13 19:05:53 INFO  
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-05-13 19:05:53 ERROR Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'topupController' defined in file [D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes\com\topup\controller\TopupController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'topupServiceImpl' defined in file [D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes\com\topup\serviceImpl\TopupServiceImpl.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'topUp.file.path' in value "${topUp.file.path}"
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:920) ~[spring-context-5.3.28.jar:5.3.28]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.28.jar:5.3.28]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.13.jar:2.7.13]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.13.jar:2.7.13]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.13.jar:2.7.13]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.13.jar:2.7.13]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.13.jar:2.7.13]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.13.jar:2.7.13]
+	at com.topup.TopUpDemoAppApplication.main(TopUpDemoAppApplication.java:10) ~[classes/:?]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'topupServiceImpl' defined in file [D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes\com\topup\serviceImpl\TopupServiceImpl.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'topUp.file.path' in value "${topUp.file.path}"
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791) ~[spring-beans-5.3.28.jar:5.3.28]
+	... 19 more
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'topUp.file.path' in value "${topUp.file.path}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180) ~[spring-core-5.3.28.jar:5.3.28]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-5.3.28.jar:5.3.28]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-5.3.28.jar:5.3.28]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-5.3.28.jar:5.3.28]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:936) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1332) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791) ~[spring-beans-5.3.28.jar:5.3.28]
+	... 19 more
+2024-05-13 19:06:06 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 6776 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-13 19:06:06 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-13 19:06:06 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-13 19:06:06 INFO  Finished Spring Data repository scanning in 15 ms. Found 1 Aerospike repository interfaces.
+2024-05-13 19:06:06 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-05-13 19:06:06 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-05-13 19:06:06 INFO  Starting service [Tomcat]
+2024-05-13 19:06:06 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-13 19:06:06 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-13 19:06:06 INFO  Root WebApplicationContext: initialization completed in 553 ms
+2024-05-13 19:06:06 WARN  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'topupController' defined in file [D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes\com\topup\controller\TopupController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'topupServiceImpl' defined in file [D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes\com\topup\serviceImpl\TopupServiceImpl.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'topUp.file.path' in value "${topUp.file.path}"
+2024-05-13 19:06:06 INFO  Stopping service [Tomcat]
+2024-05-13 19:06:06 INFO  
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-05-13 19:06:06 ERROR Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'topupController' defined in file [D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes\com\topup\controller\TopupController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'topupServiceImpl' defined in file [D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes\com\topup\serviceImpl\TopupServiceImpl.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'topUp.file.path' in value "${topUp.file.path}"
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:920) ~[spring-context-5.3.28.jar:5.3.28]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.28.jar:5.3.28]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.13.jar:2.7.13]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.13.jar:2.7.13]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.13.jar:2.7.13]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.13.jar:2.7.13]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.13.jar:2.7.13]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.13.jar:2.7.13]
+	at com.topup.TopUpDemoAppApplication.main(TopUpDemoAppApplication.java:10) ~[classes/:?]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'topupServiceImpl' defined in file [D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes\com\topup\serviceImpl\TopupServiceImpl.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'topUp.file.path' in value "${topUp.file.path}"
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791) ~[spring-beans-5.3.28.jar:5.3.28]
+	... 19 more
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'topUp.file.path' in value "${topUp.file.path}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180) ~[spring-core-5.3.28.jar:5.3.28]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126) ~[spring-core-5.3.28.jar:5.3.28]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-5.3.28.jar:5.3.28]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-5.3.28.jar:5.3.28]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191) ~[spring-context-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:936) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1332) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887) ~[spring-beans-5.3.28.jar:5.3.28]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791) ~[spring-beans-5.3.28.jar:5.3.28]
+	... 19 more
+2024-05-13 19:07:21 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 31376 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-13 19:07:21 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-13 19:07:21 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-13 19:07:21 INFO  Finished Spring Data repository scanning in 14 ms. Found 1 Aerospike repository interfaces.
+2024-05-13 19:07:22 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-05-13 19:07:22 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-05-13 19:07:22 INFO  Starting service [Tomcat]
+2024-05-13 19:07:22 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-13 19:07:22 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-13 19:07:22 INFO  Root WebApplicationContext: initialization completed in 563 ms
+2024-05-13 19:07:35 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-05-13 19:07:35 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-13 19:07:35 INFO  Started TopUpDemoAppApplication in 13.942 seconds (JVM running for 14.425)
+2024-05-13 19:07:53 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 32552 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-13 19:07:53 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-13 19:07:53 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-13 19:07:53 INFO  Finished Spring Data repository scanning in 14 ms. Found 1 Aerospike repository interfaces.
+2024-05-13 19:07:54 INFO  Tomcat initialized with port(s): 9091 (http)
+2024-05-13 19:07:54 INFO  Initializing ProtocolHandler ["http-nio-9091"]
+2024-05-13 19:07:54 INFO  Starting service [Tomcat]
+2024-05-13 19:07:54 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-13 19:07:54 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-13 19:07:54 INFO  Root WebApplicationContext: initialization completed in 567 ms
+2024-05-13 19:08:08 INFO  Starting ProtocolHandler ["http-nio-9091"]
+2024-05-13 19:08:08 INFO  Tomcat started on port(s): 9091 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-13 19:08:08 INFO  Started TopUpDemoAppApplication in 14.74 seconds (JVM running for 15.237)
+2024-05-13 19:10:45 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 30092 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-13 19:10:45 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-13 19:10:45 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-13 19:10:45 INFO  Finished Spring Data repository scanning in 14 ms. Found 1 Aerospike repository interfaces.
+2024-05-13 19:10:45 INFO  Tomcat initialized with port(s): 9091 (http)
+2024-05-13 19:10:45 INFO  Initializing ProtocolHandler ["http-nio-9091"]
+2024-05-13 19:10:45 INFO  Starting service [Tomcat]
+2024-05-13 19:10:45 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-13 19:10:45 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-13 19:10:45 INFO  Root WebApplicationContext: initialization completed in 551 ms
+2024-05-13 19:11:00 INFO  Starting ProtocolHandler ["http-nio-9091"]
+2024-05-13 19:11:00 INFO  Tomcat started on port(s): 9091 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-13 19:11:00 INFO  Started TopUpDemoAppApplication in 15.471 seconds (JVM running for 15.948)
+2024-05-13 19:15:02 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 14240 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-13 19:15:02 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-13 19:15:02 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-13 19:15:02 INFO  Finished Spring Data repository scanning in 15 ms. Found 1 Aerospike repository interfaces.
+2024-05-13 19:15:03 INFO  Tomcat initialized with port(s): 8080 (http)
+2024-05-13 19:15:03 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-13 19:15:03 INFO  Starting service [Tomcat]
+2024-05-13 19:15:03 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-13 19:15:03 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-13 19:15:03 INFO  Root WebApplicationContext: initialization completed in 554 ms
+2024-05-13 19:15:17 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2024-05-13 19:15:17 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2024-05-13 19:15:17 INFO  Started TopUpDemoAppApplication in 15.159 seconds (JVM running for 15.66)
+2024-05-13 19:15:17 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-13 19:15:17 INFO  Initializing Servlet 'dispatcherServlet'
+2024-05-13 19:15:17 INFO  Completed initialization in 1 ms
+2024-05-13 19:15:18 INFO  Init duration for springdoc-openapi is: 330 ms
+2024-05-13 19:15:38 INFO  TopupController: fetchTopupList: initiated at: 2024-05-13T19:15:38.232660500
+2024-05-13 19:15:38 INFO  TopupController:fetchTopupList:Init...
+2024-05-13 19:15:38 INFO  TopupServiceImpl: fetch All Data from Aerospike Database
+2024-05-13 19:15:40 INFO  TopupServiceImpl:fetch All Data From Aerospike Database:end...
+2024-05-13 19:15:40 INFO  TopupController:fetchTopupList:end...
+2024-05-13 19:15:40 INFO  TopupController: fetchTopupList: takes: 2.5010389 milli seconds
+2024-05-13 19:15:43 INFO  TopupController: fetchTopupList: initiated at: 2024-05-13T19:15:43.338624100
+2024-05-13 19:15:43 INFO  TopupController:fetchTopupList:Init...
+2024-05-13 19:15:43 INFO  TopupServiceImpl: fetch All Data from Aerospike Database
+2024-05-13 19:15:47 INFO  TopupServiceImpl:fetch All Data From Aerospike Database:end...
+2024-05-13 19:15:47 INFO  TopupController:fetchTopupList:end...
+2024-05-13 19:15:47 INFO  TopupController: fetchTopupList: takes: 3.7440904 milli seconds
+2024-05-13 19:16:14 INFO  TopupController: persistProductCTS: initiated at: 2024-05-13T19:16:14.089772800
+2024-05-13 19:16:14 INFO  TopupController:persistProductCTS:Init...
+2024-05-13 19:16:14 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-05-13 19:16:19 INFO  TopupServiceImpl:storeDataFromExcelToDatabase:end...
+2024-05-13 19:16:19 INFO  TopupController:persistProductCTS:end...
+2024-05-13 19:16:19 INFO  TopupController: persistProductCTS: takes: 5.002353 milli seconds
+2024-05-13 19:16:21 INFO  TopupController: persistProductCTS: initiated at: 2024-05-13T19:16:21.224776400
+2024-05-13 19:16:21 INFO  TopupController:persistProductCTS:Init...
+2024-05-13 19:16:21 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-05-13 19:16:26 INFO  TopupServiceImpl:storeDataFromExcelToDatabase:end...
+2024-05-13 19:16:26 INFO  TopupController:persistProductCTS:end...
+2024-05-13 19:16:26 INFO  TopupController: persistProductCTS: takes: 5.1644834 milli seconds

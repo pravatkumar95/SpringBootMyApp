@@ -1,0 +1,13 @@
+2024-06-27 11:17:55 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 31832 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 11:17:55 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 11:17:56 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 11:17:56 INFO  Finished Spring Data repository scanning in 29 ms. Found 2 Aerospike repository interfaces.
+2024-06-27 11:17:56 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 11:17:56 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 11:17:56 INFO  Starting service [Tomcat]
+2024-06-27 11:17:56 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 11:17:56 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 11:17:56 INFO  Root WebApplicationContext: initialization completed in 803 ms
+2024-06-27 11:18:09 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 11:18:09 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 11:18:09 INFO  Started TopUpDemoAppApplication in 13.6 seconds (JVM running for 14.501)

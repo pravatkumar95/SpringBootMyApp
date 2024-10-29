@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" monitorInterval="300">
+    <Properties>
+        <Property name="logPath">D:\work-space\Centroxy-WS02\TopUpDemoApp\src\main\resources\AppLog</Property>
+    </Properties>
+    <Appenders>
+        <Console name="CONSOLE" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n"/>
+        </Console>
+
+        <RollingFile name="AppFile"
+                     fileName="${logPath}/${hostName}-app-${date:yyyy-MM-dd.HH}.log"
+                     filePattern="${logPath}/${hostName}-app-%d{yyyy_MM_dd.HH}-%i.log.gz">
+            <PatternLayout>
+                <pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="200 MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="100"/>
+        </RollingFile>
+    </Appenders>
+
+
+    <Loggers>
+           <Root level="INFO">
+                <AppenderRef ref="CONSOLE" level="INFO"/>
+                <AppenderRef ref="AppFile" level="INFO"/>
+            </Root>
+
+            <Logger name="com.topup" level="INFO" additivity="false">
+                <AppenderRef ref="AppFile"/>
+               <AppenderRef ref="CONSOLE"/>
+            </Logger>
+
+    </Loggers>
+</Configuration>

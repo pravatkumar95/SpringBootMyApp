@@ -1,0 +1,7 @@
+spring.application.name=SpringBoot-AerospikeClientApplication
+server.port=9090
+aerospike.host=172.17.0.2
+
+#aerospike.host=localhost
+aerospike.port=3000
+aerospike.namespace=test

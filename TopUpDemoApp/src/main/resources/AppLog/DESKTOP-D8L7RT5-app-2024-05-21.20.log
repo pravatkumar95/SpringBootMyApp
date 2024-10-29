@@ -1,0 +1,17 @@
+2024-05-21 20:02:44 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 33260 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-21 20:02:44 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-21 20:02:44 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-21 20:02:44 INFO  Finished Spring Data repository scanning in 40 ms. Found 1 Aerospike repository interfaces.
+2024-05-21 20:02:45 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-05-21 20:02:45 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-05-21 20:02:45 INFO  Starting service [Tomcat]
+2024-05-21 20:02:45 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-21 20:02:45 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-21 20:02:45 INFO  Root WebApplicationContext: initialization completed in 1254 ms
+2024-05-21 20:02:59 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-05-21 20:02:59 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-21 20:02:59 INFO  Started TopUpDemoAppApplication in 15.441 seconds (JVM running for 16.177)
+2024-05-21 20:02:59 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-21 20:02:59 INFO  Initializing Servlet 'dispatcherServlet'
+2024-05-21 20:02:59 INFO  Completed initialization in 2 ms
+2024-05-21 20:17:13 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Read timed out

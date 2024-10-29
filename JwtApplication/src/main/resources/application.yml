@@ -1,0 +1,16 @@
+spring:
+ application:
+  name: JwtApplication
+ datasource:
+   url: jdbc:mysql://localhost:3306/testdb
+   username: root
+   password: root
+ jpa:
+   hibernate:
+    ddl: auto
+   show-sql: true
+
+security:
+  jwt:
+    secret-key: centroxy
+    expires: 30000

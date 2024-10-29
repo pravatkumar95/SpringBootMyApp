@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Object List</title>
+</head>
+<body>
+
+<div class="container">
+    <h2>List of Employee Status</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr th:each="object : ${listEmployee}">
+                <td th:text="${object.id}"></td>
+                <td th:text="${object.name}"></td>
+                <td th:text="${object.status}"></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+2024-05-22 19:55:09 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.io.EOFException
+2024-05-22 19:55:13 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.net.ConnectException: Connection refused: no further information
+2024-05-22 19:55:24 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Connect timed out
+2024-05-22 19:55:35 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Connect timed out
+2024-05-22 19:55:46 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Connect timed out
+2024-05-22 19:55:46 INFO  Remove node A1 3.82.188.109 3000
+2024-05-22 19:55:57 WARN  Seed 3.82.188.109 3000 failed: Error -8: java.net.SocketTimeoutException: Connect timed out

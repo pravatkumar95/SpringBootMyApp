@@ -1,0 +1,53 @@
+2024-05-22 12:33:13 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 14124 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-22 12:33:13 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-22 12:33:13 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-22 12:33:13 INFO  Finished Spring Data repository scanning in 26 ms. Found 1 Aerospike repository interfaces.
+2024-05-22 12:33:13 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-05-22 12:33:13 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-05-22 12:33:13 INFO  Starting service [Tomcat]
+2024-05-22 12:33:13 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-22 12:33:13 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-22 12:33:13 INFO  Root WebApplicationContext: initialization completed in 800 ms
+2024-05-22 12:33:26 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-05-22 12:33:26 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-22 12:33:26 INFO  Started TopUpDemoAppApplication in 13.592 seconds (JVM running for 14.284)
+2024-05-22 12:33:51 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-22 12:33:51 INFO  Initializing Servlet 'dispatcherServlet'
+2024-05-22 12:33:51 INFO  Completed initialization in 1 ms
+2024-05-22 12:33:51 INFO  TopupController: persistProductCTS: initiated at: 2024-05-22T12:33:51.050899700
+2024-05-22 12:33:51 INFO  TopupController:persistProductCTS:Init...
+2024-05-22 12:33:51 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-05-22 12:33:51 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-05-22 12:35:15 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 20560 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-05-22 12:35:15 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-05-22 12:35:15 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-05-22 12:35:15 INFO  Finished Spring Data repository scanning in 15 ms. Found 1 Aerospike repository interfaces.
+2024-05-22 12:35:15 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-05-22 12:35:15 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-05-22 12:35:15 INFO  Starting service [Tomcat]
+2024-05-22 12:35:15 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-05-22 12:35:15 INFO  Initializing Spring embedded WebApplicationContext
+2024-05-22 12:35:15 INFO  Root WebApplicationContext: initialization completed in 577 ms
+2024-05-22 12:35:28 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-05-22 12:35:28 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-05-22 12:35:28 INFO  Started TopUpDemoAppApplication in 13.367 seconds (JVM running for 13.897)
+2024-05-22 12:35:28 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-22 12:35:28 INFO  Initializing Servlet 'dispatcherServlet'
+2024-05-22 12:35:28 INFO  Completed initialization in 1 ms
+2024-05-22 12:35:28 INFO  TopupController: persistProductCTS: initiated at: 2024-05-22T12:35:28.445455400
+2024-05-22 12:35:28 INFO  TopupController:persistProductCTS:Init...
+2024-05-22 12:35:28 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-05-22 12:35:32 INFO  TopupServiceImpl:storeDataFromExcelToDatabase:end...
+2024-05-22 12:35:32 INFO  TopupController:persistProductCTS:end...
+2024-05-22 12:35:32 INFO  TopupController: persistProductCTS: takes: 3.7793379 milli seconds
+2024-05-22 12:35:37 INFO  TopupController: fetchTopupList: initiated at: 2024-05-22T12:35:37.456482600
+2024-05-22 12:35:37 INFO  TopupController:fetchTopupList:Init...
+2024-05-22 12:35:37 INFO  TopupServiceImpl: fetch All Data from Aerospike Database
+2024-05-22 12:35:38 INFO  TopupServiceImpl:fetch All Data From Aerospike Database:end...
+2024-05-22 12:35:38 INFO  TopupController:fetchTopupList:end...
+2024-05-22 12:35:38 INFO  TopupController: fetchTopupList: takes: 1.0430803 milli seconds
+2024-05-22 12:37:17 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Read timed out
+2024-05-22 12:37:28 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Connect timed out
+2024-05-22 12:49:14 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Read timed out
+2024-05-22 12:49:25 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Connect timed out
+2024-05-22 12:49:36 WARN  Node A1 3.82.188.109 3000 refresh failed: Error -8: java.net.SocketTimeoutException: Connect timed out

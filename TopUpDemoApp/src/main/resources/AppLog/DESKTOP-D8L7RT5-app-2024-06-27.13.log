@@ -1,0 +1,251 @@
+2024-06-27 13:00:50 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 28856 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 13:00:50 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 13:00:50 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 13:00:50 INFO  Finished Spring Data repository scanning in 51 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 13:00:51 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 13:00:51 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:00:51 INFO  Starting service [Tomcat]
+2024-06-27 13:00:51 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 13:00:51 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 13:00:51 INFO  Root WebApplicationContext: initialization completed in 1326 ms
+2024-06-27 13:01:04 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:01:05 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 13:01:05 INFO  Started TopUpDemoAppApplication in 15.077 seconds (JVM running for 15.956)
+2024-06-27 13:01:09 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 13:01:09 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 13:01:09 INFO  Completed initialization in 1 ms
+2024-06-27 13:01:09 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:01:09.283401
+2024-06-27 13:01:09 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:01:09 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:01:10 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:03:22 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 10852 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 13:03:22 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 13:03:23 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 13:03:23 INFO  Finished Spring Data repository scanning in 42 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 13:03:24 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 13:03:24 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:03:24 INFO  Starting service [Tomcat]
+2024-06-27 13:03:24 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 13:03:24 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 13:03:24 INFO  Root WebApplicationContext: initialization completed in 1558 ms
+2024-06-27 13:03:38 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:03:38 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 13:03:38 INFO  Started TopUpDemoAppApplication in 16.057 seconds (JVM running for 17.774)
+2024-06-27 13:03:39 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 13:03:39 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 13:03:39 INFO  Completed initialization in 7 ms
+2024-06-27 13:03:40 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:03:40.026474900
+2024-06-27 13:03:40 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:03:40 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:07:57 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:08:03 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 5252 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 13:08:03 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 13:08:04 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 13:08:04 INFO  Finished Spring Data repository scanning in 53 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 13:08:05 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 13:08:05 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:08:05 INFO  Starting service [Tomcat]
+2024-06-27 13:08:05 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 13:08:05 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 13:08:05 INFO  Root WebApplicationContext: initialization completed in 1495 ms
+2024-06-27 13:08:18 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:08:18 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 13:08:18 INFO  Started TopUpDemoAppApplication in 15.518 seconds (JVM running for 16.647)
+2024-06-27 13:08:23 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 13:08:23 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 13:08:23 INFO  Completed initialization in 1 ms
+2024-06-27 13:08:23 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:08:23.521207700
+2024-06-27 13:08:23 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:08:23 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:08:35 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:08:41 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:08:41.168033800
+2024-06-27 13:08:41 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:08:41 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:08:49 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:08:49 INFO  Remove node A1 3.83.162.143 3000
+2024-06-27 13:08:57 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 30760 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 13:08:57 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 13:08:58 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 13:08:58 INFO  Finished Spring Data repository scanning in 43 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 13:08:59 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 13:08:59 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:08:59 INFO  Starting service [Tomcat]
+2024-06-27 13:08:59 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 13:08:59 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 13:08:59 INFO  Root WebApplicationContext: initialization completed in 1309 ms
+2024-06-27 13:09:12 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:09:12 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 13:09:12 INFO  Started TopUpDemoAppApplication in 15.432 seconds (JVM running for 16.318)
+2024-06-27 13:09:18 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 13:09:18 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 13:09:18 INFO  Completed initialization in 0 ms
+2024-06-27 13:09:18 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:09:18.380712300
+2024-06-27 13:09:18 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:09:18 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:09:19 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:16:35 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 15700 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 13:16:35 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 13:16:36 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 13:16:36 INFO  Finished Spring Data repository scanning in 49 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 13:16:37 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 13:16:37 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:16:37 INFO  Starting service [Tomcat]
+2024-06-27 13:16:37 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 13:16:37 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 13:16:37 INFO  Root WebApplicationContext: initialization completed in 1406 ms
+2024-06-27 13:16:50 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:16:50 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 13:16:51 INFO  Started TopUpDemoAppApplication in 15.661 seconds (JVM running for 16.602)
+2024-06-27 13:16:54 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 13:16:54 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 13:16:54 INFO  Completed initialization in 1 ms
+2024-06-27 13:16:54 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:16:54.981640500
+2024-06-27 13:16:54 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:16:54 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:16:55 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:21:11 INFO  Remove node A1 3.83.162.143 3000
+2024-06-27 13:21:18 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 12500 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 13:21:18 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 13:21:18 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 13:21:18 INFO  Finished Spring Data repository scanning in 53 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 13:21:19 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 13:21:19 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:21:19 INFO  Starting service [Tomcat]
+2024-06-27 13:21:19 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 13:21:19 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 13:21:19 INFO  Root WebApplicationContext: initialization completed in 1361 ms
+2024-06-27 13:21:32 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:21:32 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 13:21:32 INFO  Started TopUpDemoAppApplication in 15.209 seconds (JVM running for 16.103)
+2024-06-27 13:21:37 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 13:21:37 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 13:21:37 INFO  Completed initialization in 1 ms
+2024-06-27 13:21:37 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:21:37.487663700
+2024-06-27 13:21:37 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:21:37 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:21:38 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:23:56 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:23:56.434990
+2024-06-27 13:23:56 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:23:56 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:23:56 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:24:35 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:24:35.145279500
+2024-06-27 13:24:35 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:24:35 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:24:35 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:25:09 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:25:09.400516600
+2024-06-27 13:25:09 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:25:09 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:25:09 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:25:54 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:25:54.159909
+2024-06-27 13:25:54 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:25:54 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:25:54 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:26:43 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:26:43.015008900
+2024-06-27 13:26:43 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:26:43 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:26:43 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:28:32 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:28:32.979177700
+2024-06-27 13:28:32 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:28:32 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:28:33 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:29:41 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:29:41.292160500
+2024-06-27 13:29:41 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:29:41 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:29:41 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:30:54 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:30:54.092489700
+2024-06-27 13:30:54 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:30:54 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:30:54 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:31:28 INFO  Remove node A1 3.83.162.143 3000
+2024-06-27 13:31:30 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 15148 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 13:31:30 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 13:31:31 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 13:31:31 INFO  Finished Spring Data repository scanning in 73 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 13:31:32 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 13:31:32 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:31:32 INFO  Starting service [Tomcat]
+2024-06-27 13:31:32 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 13:31:32 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 13:31:32 INFO  Root WebApplicationContext: initialization completed in 1638 ms
+2024-06-27 13:31:45 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:31:45 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 13:31:45 INFO  Started TopUpDemoAppApplication in 15.482 seconds (JVM running for 16.609)
+2024-06-27 13:31:55 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 13:31:55 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 13:31:55 INFO  Completed initialization in 2 ms
+2024-06-27 13:31:55 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:31:55.354664600
+2024-06-27 13:31:55 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:31:55 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:31:56 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:34:59 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 11900 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 13:34:59 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 13:35:00 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 13:35:00 INFO  Finished Spring Data repository scanning in 48 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 13:35:01 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 13:35:01 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:35:01 INFO  Starting service [Tomcat]
+2024-06-27 13:35:01 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 13:35:01 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 13:35:01 INFO  Root WebApplicationContext: initialization completed in 1548 ms
+2024-06-27 13:35:14 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:35:14 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 13:35:14 INFO  Started TopUpDemoAppApplication in 15.44 seconds (JVM running for 16.346)
+2024-06-27 13:35:23 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 13:35:23 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 13:35:23 INFO  Completed initialization in 1 ms
+2024-06-27 13:35:23 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:35:23.419192900
+2024-06-27 13:35:23 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:35:23 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:35:24 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:40:59 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:40:59.591100200
+2024-06-27 13:40:59 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:40:59 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:41:00 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:43:52 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 17424 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 13:43:52 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 13:43:53 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 13:43:53 INFO  Finished Spring Data repository scanning in 57 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 13:43:54 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 13:43:54 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:43:54 INFO  Starting service [Tomcat]
+2024-06-27 13:43:54 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 13:43:54 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 13:43:54 INFO  Root WebApplicationContext: initialization completed in 1624 ms
+2024-06-27 13:44:07 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:44:07 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 13:44:07 INFO  Started TopUpDemoAppApplication in 15.319 seconds (JVM running for 16.241)
+2024-06-27 13:44:25 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 13:44:25 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 13:44:25 INFO  Completed initialization in 2 ms
+2024-06-27 13:44:25 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:44:25.826755200
+2024-06-27 13:44:25 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:44:25 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:44:26 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:44:54 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:44:54.792002
+2024-06-27 13:44:54 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:44:54 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:44:55 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:50:30 INFO  Starting TopUpDemoAppApplication using Java 17.0.9 on DESKTOP-D8L7RT5 with PID 24644 (D:\work-space\Centroxy-WS02\TopUpDemoApp\target\classes started by PRAVAT KUMAR SAMAL in D:\work-space\Centroxy-WS02\TopUpDemoApp)
+2024-06-27 13:50:30 INFO  No active profile set, falling back to 1 default profile: "default"
+2024-06-27 13:50:31 INFO  Bootstrapping Spring Data Aerospike repositories in DEFAULT mode.
+2024-06-27 13:50:31 INFO  Finished Spring Data repository scanning in 67 ms. Found 3 Aerospike repository interfaces.
+2024-06-27 13:50:31 INFO  Tomcat initialized with port(s): 9090 (http)
+2024-06-27 13:50:31 INFO  Initializing ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:50:31 INFO  Starting service [Tomcat]
+2024-06-27 13:50:31 INFO  Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-06-27 13:50:32 INFO  Initializing Spring embedded WebApplicationContext
+2024-06-27 13:50:32 INFO  Root WebApplicationContext: initialization completed in 1505 ms
+2024-06-27 13:50:45 INFO  Starting ProtocolHandler ["http-nio-9090"]
+2024-06-27 13:50:45 INFO  Tomcat started on port(s): 9090 (http) with context path '/prepaid-service-manager/api/v1'
+2024-06-27 13:50:45 INFO  Started TopUpDemoAppApplication in 15.46 seconds (JVM running for 16.348)
+2024-06-27 13:50:51 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-27 13:50:51 INFO  Initializing Servlet 'dispatcherServlet'
+2024-06-27 13:50:51 INFO  Completed initialization in 1 ms
+2024-06-27 13:50:51 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:50:51.475411800
+2024-06-27 13:50:51 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:50:51 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:50:52 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
+2024-06-27 13:52:32 INFO  TopupController: persistProductCTS: initiated at: 2024-06-27T13:52:32.750559200
+2024-06-27 13:52:32 INFO  TopupController:persistProductCTS:Init...
+2024-06-27 13:52:32 INFO  TopupServiceImpl:persistProductCTS:Init...
+2024-06-27 13:52:50 ERROR TopupServiceImpl:storeDataFromExcelToDatabase:Error reading file...
